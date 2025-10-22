@@ -33,13 +33,13 @@ export default {
       title: "Режим чтения",
     },
     explorer: {
-      title: "Проводник",
+      title: "Меню страниц",
     },
     footer: {
       createdWith: "Создано с помощью",
     },
     graph: {
-      title: "Вид графа",
+      title: "Граф заметок",
     },
     recentNotes: {
       title: "Недавние заметки",
