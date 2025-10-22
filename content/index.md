@@ -1,6 +1,10 @@
 ---
-title: Welcome to Quartz
+title: Категорически вас приветствую!
 ---
+Здесь будут различные заметки/мысли/туториалы на тему IT и не только
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Как я создаю посты для этого блога:
+1. Пишу заметку в [Obsidian](https://obsidian.md/) в отдельном хранилище
+2. Сохраняю их в своей Github репе
+3. Собираю из md файлов статику с помощью [Quartz](https://quartz.jzhao.xyz/)
+4. Она автоматически публикуется с помощью [Vercel](https://vercel.com/)
